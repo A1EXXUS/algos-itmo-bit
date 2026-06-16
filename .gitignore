@@ -1,0 +1,29 @@
+# Скомпилированные бинарники
+sort
+*.o
+
+# LaTeX артефакты
+*.aux
+*.log
+*.out
+*.toc
+
+# Служебные файлы Claude / рабочие заметки
+CLAUDE.md
+PLAN.md
+ЗАЩИТА.md
+шпаргалка.md
+
+# Python
+.venv/
+__pycache__/
+*.pyc
+
+# Случайные скриншоты
+Screenshot *.png
+
+# ZIP-архивы
+*.zip
+
+# macOS
+.DS_Store
